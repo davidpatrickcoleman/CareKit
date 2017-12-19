@@ -79,3 +79,8 @@
 
 // Colors
 #import <CareKit/OCKColor.h>
+
+// Activity Chart
+#import <CareKit/OCKRingView.h>
+#import <CareKit/OCKRingButton.h>
+#import <CareKit/OCKHeaderView.h>
